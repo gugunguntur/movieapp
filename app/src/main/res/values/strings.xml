@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="title_movie">Title Movie</string>
+    <string name="year">Year</string>
+    <string name="search">Search Movie</string>
+    <string name="title">Enter Title Movie</string>
+    <string name="search_btn">SEARCH</string>
+    <string name="type">Type</string>
+</resources>
